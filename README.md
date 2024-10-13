@@ -29,7 +29,6 @@ Instructions
 12. Uncache the **home_sales** temporary table
 13. Verify that the **home_sales** temporary table is uncached using PySpark.
 14. Download your **Home_sales.ipynb** file and upload it to your "Home_Sales" GitHub repository.
-     * **(NOTE: I worked on the colab version due to the packages installed and the size of the data. Therefore this is the file with the outputs).**
 
 ------------------------------------
 References
