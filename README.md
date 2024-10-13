@@ -6,7 +6,7 @@ The aim of this project is to use SparkSQL to analyze home sales data and extrac
 ---------------------------------
 Content of the repository
 ---------------------------------
-- Home_Sales_colab.ipynb <-- This is the Jupyter Notebook that I worked on via Google Colab.
+- Home_Sales_colab.ipynb <-- This is the Jupyter Notebook that I worked on using Google Colab.
 
 ----------------------------------
 Instructions
